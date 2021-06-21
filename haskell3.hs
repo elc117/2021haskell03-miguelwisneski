@@ -1,3 +1,5 @@
+Nome: Miguel Antonio Welter Wisneski
+
 --1
 add10toall :: [Int] -> [Int]
 add10toall lista = [x+10 | x <- lista]
